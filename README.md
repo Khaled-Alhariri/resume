@@ -4,7 +4,7 @@ Interactive cyberpunk-themed resume built with pure HTML/CSS.
 
 ## 🔗 Live Preview
 
-👉 [View Resume](https://yourusername.github.io/resume/)
+👉 [View Resume](https://khaled-alhariri.github.io/resume/)
 
 > Replace `yourusername` with your actual GitHub username.
 
